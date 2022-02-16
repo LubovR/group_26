@@ -1,7 +1,0 @@
-id
-Summary
-Description
-Actual result
-Expected result
-Severity
-Priority
